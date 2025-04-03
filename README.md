@@ -54,8 +54,8 @@ O projeto foi desenvolvido como parte do **Tech Challenge - Fase 3** da Pós-Gra
 
 1. Clone o repositório:
     ```bash
-    git clone <URL_DO_REPOSITORIO>
-    cd <NOME_DO_DIRETORIO>
+    git clone https://github.com/willalveslima/Tech_Challenge_3.git
+    cd Tech_Challenge_3
     ```
 
 2. Crie e ative um ambiente virtual:
