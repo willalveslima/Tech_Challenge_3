@@ -102,7 +102,7 @@ def preprocess_data(df, feature_columns):
     return data_scaled, scaler
 
 
-def train_isolation_forest(data_scaled, contamination='auto', random_state=42):
+def train_isolation_forest(data_scaled, contamination=0.05, random_state=42):
     """
     Treina um modelo Isolation Forest.
 
