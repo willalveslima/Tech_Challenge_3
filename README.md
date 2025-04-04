@@ -34,6 +34,15 @@ O projeto foi desenvolvido como parte do **Tech Challenge - Fase 3** da Pós-Gra
 ├── LICENSE                      # Licença do projeto
 └── README.md                    # Documentação do projeto
 ```
+## Modelo de .env
+
+```bash
+DB_FILE=system_stats.db
+TABLE_NAME=system_stats
+DB_FOLDER=database/
+MODEL_FILENAME=model/isolation_forest_model.pkl
+SCALER_FILENAME=model/scaler.pkl
+```
 
 ## Tecnologias Utilizadas
 
